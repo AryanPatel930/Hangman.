@@ -1,0 +1,29 @@
+words_list = [
+'Prgrammers',
+    'Computers',
+    'Python',
+    'Java',
+    'Web',
+    'Development',
+    'Apps',
+    'Queens'
+    'College',
+    'Tech',
+    'Incubator',
+    'Aryan',
+    'Science',
+    'Engineering',
+    'HTML',
+    'CSS',
+    'Mentor'
+    'Internship',
+    'Jobs',
+    'Design',
+    'Website',
+    'Learning',
+    'projects'
+    'meet',
+    'team',
+    'teammates',
+    'aesthetics'
+]
